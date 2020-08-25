@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "iostream": "cpp"
+    },
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.drawBoldTextInBrightColors": false
+}
